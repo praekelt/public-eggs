@@ -14,8 +14,6 @@ To release an egg follow these steps:
 
 #. Upload the created egg or tarball via this repo's `downloads page <https://github.com/praekelt/public-eggs/downloads>`_.
 
-#. Update ``index.html`` in the ``gh-pages`` branch to include your new download link. Edit straight through GitHub web `here <https://github.com/praekelt/public-eggs/blob/gh-pages/index.html>`_.
+#. Update ``index.html`` in the ``gh-pages`` branch to include your new upload's download link. Edit straight through GitHub web `here <https://github.com/praekelt/public-eggs/blob/gh-pages/index.html>`_.
 
-http://praekelt.github.com/public-eggs/
-
-#. Specify `http://praekelt.github.com/public-eggs/`_ as your find-link.
+#. Add http://praekelt.github.com/public-eggs/ as one of your find-links, or add a dependency_link straight to your new upload's download link.
