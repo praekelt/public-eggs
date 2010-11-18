@@ -6,7 +6,7 @@ Simple custom Praekelt PyPi instance served through GitHub.
 Usage
 -----
 
-To release an egg follow these steps:
+To release a python package follow these steps:
 
 #. Compile the egg or create a tarball::
 
